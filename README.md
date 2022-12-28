@@ -21,7 +21,7 @@ ___
  >>[color.py](https://github.com/Y-Guskova/SummerPraktice/blob/main/Detect_color/color.py) - программа распознования стикеров разных цветов, записи координат их расположения и переводом в реальные координаты с помощью гомографии, написанная на Python.
  >>![Распознование стикеров](https://github.com/Y-Guskova/SummerPraktice/blob/main/detecting.jpeg)
  >>![Координаты стикеров](https://github.com/Y-Guskova/SummerPraktice/blob/main/coord.jpeg)
- >>!Траектопия](https://github.com/Y-Guskova/SummerPraktice/blob/main/trajectory.jpg)
+ >>![Траектопия](https://github.com/Y-Guskova/SummerPraktice/blob/main/trajectory.jpg)
 
 > - [__GPIO_output__](https://github.com/Y-Guskova/SummerPraktice/tree/main/gpio_output) - интерфейс ввода-вывода пинов Alphabot. 
  >>client
