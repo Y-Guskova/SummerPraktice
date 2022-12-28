@@ -6,6 +6,7 @@ ___
 
 ## Краткое описание:
 Управление Alphabot-ом с RaspberryPi 4 с ядром KasperskyOS с помощью GPIO, TCP и веб-камеры. 
+![Alphabot](https://github.com/Y-Guskova/SummerPraktice/blob/main/alphabot.jpeg)
 ___
 ### Цель:
 1. Реализовать удаленное соединение робота с управляющей программой поTCP протоколу в одной локальной среде.
@@ -13,7 +14,6 @@ ___
 3. Реализовать функционал распознавания робота и его целей.
 4. Создать алгоритм управления роботом через внешнюю камеру.
 ![Схема](https://github.com/Y-Guskova/SummerPraktice/blob/main/scheme.jpeg) 
-![Alphabot](https://github.com/Y-Guskova/SummerPraktice/blob/main/alphabot.jpeg)
 ___
 ### Реализация:
 
@@ -21,6 +21,7 @@ ___
  >>[color.py](https://github.com/Y-Guskova/SummerPraktice/blob/main/Detect_color/color.py) - программа распознования стикеров разных цветов, записи координат их расположения и переводом в реальные координаты с помощью гомографии, написанная на Python.
  >>![Распознование стикеров](https://github.com/Y-Guskova/SummerPraktice/blob/main/detecting.jpeg)
  >>![Координаты стикеров](https://github.com/Y-Guskova/SummerPraktice/blob/main/coord.jpeg)
+ >>!Траектопия](https://github.com/Y-Guskova/SummerPraktice/blob/main/trajectory.jpg)
 
 > - [__GPIO_output__](https://github.com/Y-Guskova/SummerPraktice/tree/main/gpio_output) - интерфейс ввода-вывода пинов Alphabot. 
  >>client
