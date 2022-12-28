@@ -19,6 +19,8 @@ ___
 
 > - [__Detect_color__](https://github.com/Y-Guskova/SummerPraktice/tree/main/Detect_color)
  >>[color.py](https://github.com/Y-Guskova/SummerPraktice/blob/main/Detect_color/color.py) - программа распознования стикеров разных цветов, записи координат их расположения и переводом в реальные координаты с помощью гомографии, написанная на Python.
+ >>![Распознование стикеров](https://github.com/Y-Guskova/SummerPraktice/blob/main/alphabot.jpeg)
+ >>![Координаты стикеров](https://github.com/Y-Guskova/SummerPraktice/blob/main/coord.jpeg)
 
 > - [__GPIO_output__](https://github.com/Y-Guskova/SummerPraktice/tree/main/gpio_output) - интерфейс ввода-вывода пинов Alphabot. 
  >>client
@@ -32,7 +34,7 @@ ___
 >>>>#define GPIO_PIN_NUM_ENB 26U
 >>>>#define DELAY_S 2
 >>>>
->>>> /*Указываем пины, создаем функци back, forward, left, right, stop, подавая сигналы 1 и 0 на определенные порты. В main-е вызываем функции.*/}```
+>>>> /*Указываем пины, создаем функци back, forward, left, right, stop, подавая сигналы 1 и 0 на определенные порты. В main-е вызываем функции.*/
 >>[mount.sh](https://github.com/Y-Guskova/SummerPraktice/blob/main/gpio_output/mount.sh) - сценарий, записывабщий образ kos-image на sd-карту
 
 > - [__TCP/tcpserver__](https://github.com/Y-Guskova/SummerPraktice/tree/main/TCP/tcpserver)
